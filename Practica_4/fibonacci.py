@@ -1,7 +1,5 @@
 import time
 
-metrica = "from math import sqrt"
-
 def fiboBotUp(n):
     if n<2 :
         return n
